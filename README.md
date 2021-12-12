@@ -14,3 +14,4 @@ You can find different React concepts examples under the `src` sub-folder.
 - Typing useReducer Hook
 - Typing useContext Hook
 - Typing useRef Hook
+- Typing Generics
