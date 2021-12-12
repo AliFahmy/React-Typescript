@@ -15,3 +15,5 @@ You can find different React concepts examples under the `src` sub-folder.
 - Typing useContext Hook
 - Typing useRef Hook
 - Typing Generics
+- Typing Template Literals
+- Typing HTML Elements
